@@ -1,0 +1,20 @@
+body {
+background-image: url("tlo2.jpg");
+background-size: 100%;
+font-family: calibri;
+color: black
+}
+.tytul {
+background-color: rgb(66, 195, 96);
+text-align: center;
+}
+p {
+font-family: calibri;
+color: white
+}
+a {
+font-family: calibri;
+color: white
+}
+
+
